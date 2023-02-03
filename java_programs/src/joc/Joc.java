@@ -1,4 +1,4 @@
-package java_programs.src.joc;
+package joc;
 
 import java.awt.Color;
 
